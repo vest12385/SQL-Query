@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+#content
+{
+	text-align:center;
+}
+
+#SQLTABLE
+{
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+#Page
+{
+	margin-top:10%;
+	text-align:center;
+}
+#Pre
+{
+	position:relative;
+	right:30%;
+}
+
+#GoBack
+{
+	
+}
+
+#Next
+{
+	position:relative;
+	left:30%;
+}
+
+#join
+{
+	position:absolute;
+	right:0%;
+}

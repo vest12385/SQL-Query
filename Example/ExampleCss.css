@@ -1,0 +1,41 @@
+@charset "utf-8";
+a
+{
+	margin:10px;
+}
+#one
+{
+	margin-bottom:1%;
+}
+#two
+{
+	margin-bottom:1%;
+}
+#three
+{
+	margin-bottom:1%;
+}
+#four
+{
+	margin-bottom:1%;
+}
+#five
+{
+	margin-bottom:1%;
+}
+#six
+{
+	margin-bottom:1%;
+}
+#ALL
+{
+	margin-top:10%;
+	position: relative;
+	left: 25%;
+}
+#Back
+{
+	margin-top:10%;
+	position:relative;
+	left:35%;	
+}

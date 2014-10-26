@@ -1,0 +1,55 @@
+@charset "utf-8";
+#Employees
+{
+	position:fixed;
+	top:10%;
+	left:10%;
+}
+#Orders
+{
+	position:fixed;
+	top:10%;
+	left:40%;
+}
+#OrderDetails
+{
+	position:fixed;
+	top:10%;
+	left:70%;
+}
+#Customers
+{
+	position:fixed;
+	top:50%;
+	left:10%;
+}
+#Supplier
+{
+	position:fixed;
+	top:50%;
+	left:40%;
+}
+#ProductInformation
+{
+	position:fixed;
+	top:50%;
+	left:70%;
+}
+#ProductCategory
+{
+	position:fixed;
+	top:50%;
+	right:10%;
+}
+#GotoQueryPage
+{
+	position:absolute;
+	bottom:10%;
+	left:25%;	
+}
+#ExamplePage
+{
+	position:absolute;
+	bottom:10%;
+	left:75%;	
+}
